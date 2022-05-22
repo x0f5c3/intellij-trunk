@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.x0f5c3.intellijtrunk.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.x0f5c3.intellijtrunk.MyBundle
 
 class MyApplicationService {
 
